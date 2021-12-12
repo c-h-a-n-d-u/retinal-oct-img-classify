@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "ABC"
+title:  "Youtube-DeepLizard"
 date:   2021-12-10
 categories: jekyll update
 ---
 
-I wanna become hokage
+Started watching youtube vedios to get basic idea
+first 5 vedios of this playlist [https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL] gives a basic idea about keras.prosessing data(used numy array in vedio) building and training model(sequential-a simple one of two dense layers and a softmax) 
